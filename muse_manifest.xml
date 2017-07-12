@@ -1,0 +1,94 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="eastwestfusionkitchen.com" resolutions="1x" timestamp="1483013030953">
+  <folder name="css">
+    <file name="site_global.css" crc="4134669441"/>
+    <file name="master_a-master.css" crc="4086200340" ref="order:contact-us:index:subscribe:specials:menu:catering"/>
+    <file name="nomq_preview_master_a-master.css" crc="3832500107" ref="order:contact-us:index:subscribe:specials:menu:catering"/>
+    <file name="order.css" crc="4025043595" ref="order"/>
+    <file name="nomq_order.css" crc="95966000" ref="order"/>
+    <file name="iefonts_order.css" crc="4289997987" ref="order"/>
+    <file name="contact-us.css" crc="127304575" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="3938998361" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="4289997987" ref="contact-us"/>
+    <file name="index.css" crc="278678204" ref="index"/>
+    <file name="nomq_index.css" crc="3885743829" ref="index"/>
+    <file name="iefonts_index.css" crc="4289997987" ref="index"/>
+    <file name="subscribe.css" crc="418286662" ref="subscribe"/>
+    <file name="nomq_subscribe.css" crc="3894789398" ref="subscribe"/>
+    <file name="specials.css" crc="358930741" ref="specials"/>
+    <file name="nomq_specials.css" crc="4193256121" ref="specials"/>
+    <file name="iefonts_specials.css" crc="4289997987" ref="specials"/>
+    <file name="menu.css" crc="4206200444" ref="menu"/>
+    <file name="nomq_menu.css" crc="3982510604" ref="menu"/>
+    <file name="iefonts_menu.css" crc="4289997987" ref="menu"/>
+    <file name="catering.css" crc="4002913605" ref="catering"/>
+    <file name="nomq_catering.css" crc="420347734" ref="catering"/>
+    <file name="iefonts_catering.css" crc="4289997987" ref="catering"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="museutils.js" crc="163421577" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="museconfig.js" crc="36584860" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:contact-us:menu:specials:catering:order"/>
+    <file name="webpro.js" crc="3848665353" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="require.js" crc="244322403" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="form_check.php" crc="158155501" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact-us"/>
+    <file name="form_process.php" crc="4078697226" ref="contact-us"/>
+    <file name="form-u36749.php" crc="489226625" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="logoweb.svg" crc="3765965503" ref="index"/>
+    <file name="logoweb_poster_u42437.png" crc="4218257808" ref="index"/>
+    <file name="1-kothu-plate-2.jpg" crc="4054915000" seo="true" ref="index:menu"/>
+    <file name="pittu-1.jpg" crc="200646704" seo="true" ref="index:menu"/>
+    <file name="545015_351094398261190_749146805_n.jpg" crc="252043541" seo="true" ref="index"/>
+    <file name="string-hopper-1.jpg" crc="144534208" seo="true" ref="index"/>
+    <file name="appetizersamosas2.jpg" crc="4229204041" seo="true" ref="index"/>
+    <file name="briyanispecial.jpg" crc="4151033641" seo="true" ref="index:menu:specials"/>
+    <file name="poster_butterchicken_30x40.jpg" crc="4187217264" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="briyanispecial-u19465-fr.jpg" crc="16356799" ref="index"/>
+    <file name="pittu-1-u26343-fr.jpg" crc="99368011" ref="index"/>
+    <file name="pattern4bg.jpg" crc="4155251827" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+    <file name="briyanispecial-u19465-fr2.jpg" crc="369146744" ref="index"/>
+    <file name="pittu-1-u26343-fr2.jpg" crc="342470238" ref="index"/>
+    <file name="appetizervada-u29436-fr.jpg" crc="4221490149" ref="contact-us"/>
+    <file name="appetizervada.jpg" crc="4079981969" ref="contact-us:menu"/>
+    <file name="appetizervada-u35271-fr.jpg" crc="316707411" ref="menu"/>
+    <file name="1-fish-pakora.jpg" crc="4160647628" ref="menu"/>
+    <file name="pittu-1-u39275-fr.jpg" crc="185486943" ref="menu"/>
+    <file name="1-kothu-plate-2-u39298-fr.jpg" crc="4256469439" ref="menu"/>
+    <file name="palak-paneer.jpg" crc="219435813" ref="menu"/>
+    <file name="briyanispecial-u39423-fr.jpg" crc="3924885549" ref="menu"/>
+    <file name="appetizervada-u39484-fr.jpg" crc="54044030" ref="menu"/>
+    <file name="appetizervada-u40609-fr.jpg" crc="156810047" ref="menu"/>
+    <file name="appetizervada-u35271-fr2.jpg" crc="461245112" ref="menu"/>
+    <file name="appetizervada-u40609-fr2.jpg" crc="3894550562" ref="menu"/>
+    <file name="appetizervada-u35271-fr3.jpg" crc="4107586459" ref="menu"/>
+    <file name="briyanispecial-u39491-fr.jpg" crc="196237787" ref="specials"/>
+    <file name="kitchen.jpg" crc="181535999" ref="catering:order"/>
+    <file name="kitchen-u38176-fr.jpg" crc="12950247" ref="catering:order"/>
+    <file name="poster_butterchicken1_30x40-u19103-fr.jpg" crc="3885233533" ref="index"/>
+    <file name="poster_butterchicken1_30x40.jpg" crc="3908286073" ref="index:specials"/>
+    <file name="poster_butterchicken1_30x40-u37821-fr.jpg" crc="285889784" ref="specials"/>
+    <file name="poster_butterchicken1_30x40-u37821-fr2.jpg" crc="3871195406" ref="specials"/>
+    <file name="social-facebook-circle-128-crop-u43621.png" crc="135574135" ref="index:contact-us:menu:specials:catering:order:subscribe"/>
+  </folder>
+  <file name="index.html" crc="244466071" seo="true" mt="1483012753934" redirect="true"/>
+  <file name="contact-us.html" crc="523221892" seo="true" mt="1483012817940" redirect="true"/>
+  <file name="menu.html" crc="3844397861" seo="true" mt="1483012865807" redirect="true"/>
+  <file name="specials.html" crc="69316340" seo="true" mt="1483012918145" redirect="true"/>
+  <file name="catering.html" crc="320773259" seo="true" mt="1483012950732" redirect="true"/>
+  <file name="order.html" crc="334907220" seo="true" mt="1483012978453" redirect="true"/>
+  <file name="subscribe.html" crc="218655953" seo="true" mt="1483013004697" redirect="true"/>
+</manifest>
